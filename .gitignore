@@ -1,0 +1,19 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*.class
+*.pkl
+*.joblib
+!models/churn_pipeline.joblib
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Media / Big files (optional)
+# demo.video.mp4
